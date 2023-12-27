@@ -1,3 +1,10 @@
+<!-- PROJECT SHIELDS -->
+[![Contributors][contributors-shield]][contributors-url]
+[![Forks][forks-shield]][forks-url]
+[![Stargazers][stars-shield]][stars-url]
+[![Issues][issues-shield]][issues-url]
+[![MIT License][license-shield]][license-url]
+
 # Welcome to my Altium Designer library!
 
 Over the past 5 years, I have created and maintained this library to help streamline my PCB design workflow. The library contains a variety of useful components
@@ -11,4 +18,17 @@ I hope you find this library useful in your PCB design endeavors! If you have an
 <div align="center">
   <p> <img src="img.png?raw=true "Overview"" width="800"> </p>  
 </div>
+
+<!-- MARKDOWN LINKS & IMAGES -->
+<!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
+[contributors-shield]: https://img.shields.io/github/contributors/SMotlaq/altium-library.svg?style=for-the-badge
+[contributors-url]: https://github.com/SMotlaq/altium-library/graphs/contributors
+[forks-shield]: https://img.shields.io/github/forks/SMotlaq/altium-library.svg?style=for-the-badge
+[forks-url]: https://github.com/SMotlaq/altium-library/network/members
+[stars-shield]: https://img.shields.io/github/stars/SMotlaq/altium-library.svg?style=for-the-badge
+[stars-url]: https://github.com/SMotlaq/altium-library/stargazers
+[issues-shield]: https://img.shields.io/github/issues/SMotlaq/altium-library.svg?style=for-the-badge
+[issues-url]: https://github.com/SMotlaq/altium-library/issues
+[license-shield]: https://img.shields.io/github/license/SMotlaq/altium-library.svg?style=for-the-badge
+[license-url]: https://github.com/SMotlaq/altium-library/blob/master/LICENSE.txt
 
