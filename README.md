@@ -6,4 +6,4 @@ While I have made every effort to ensure the accuracy and reliability of the com
 
 The library is compatible with Altium Designer version 21.0 and later. To use the library, simply download the zip file, extract the contents, and place the folders in the appropriate locations on your computer.
 
-I hope you find this library useful in your PCB design endeavors! If you have any questions or suggestions, please feel free to reach out to me through [E-mail](pilot.motlaq@gmail.com) or [Telegram account](https://t.me/S_Motlaq).
+I hope you find this library useful in your PCB design endeavors! If you have any questions or suggestions, please feel free to reach out to me through [Telegram account](https://t.me/S_Motlaq) or E-mail: pilot.motlaq@gmail.com
