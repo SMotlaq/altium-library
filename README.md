@@ -1,5 +1,5 @@
 <!-- PROJECT SHIELDS -->
-[![Contributors][contributors-shield]][contributors-url]
+[![Contributors][contributors-shield]][contributors-url] 
 [![Forks][forks-shield]][forks-url]
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
@@ -32,14 +32,14 @@ Do you want to support me?
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
-[contributors-shield]: https://img.shields.io/github/contributors/SMotlaq/altium-library.svg?style=for-the-badge
-[contributors-url]: https://github.com/SMotlaq/altium-library/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/SMotlaq/altium-library.svg?style=for-the-badge
-[forks-url]: https://github.com/SMotlaq/altium-library/network/members
-[stars-shield]: https://img.shields.io/github/stars/SMotlaq/altium-library.svg?style=for-the-badge
-[stars-url]: https://github.com/SMotlaq/altium-library/stargazers
-[issues-shield]: https://img.shields.io/github/issues/SMotlaq/altium-library.svg?style=for-the-badge
-[issues-url]: https://github.com/SMotlaq/altium-library/issues
-[license-shield]: https://img.shields.io/github/license/SMotlaq/altium-library.svg?style=for-the-badge
-[license-url]: https://github.com/SMotlaq/altium-library/blob/master/LICENSE.txt
+[contributors-shield]: https://img.shields.io/github/contributors/SMotlaq/altiumlibrary.svg?style=for-the-badge
+[contributors-url]: https://github.com/SMotlaq/altiumlibrary/graphs/contributors
+[forks-shield]: https://img.shields.io/github/forks/SMotlaq/altiumlibrary.svg?style=for-the-badge
+[forks-url]: https://github.com/SMotlaq/altiumlibrary/network/members
+[stars-shield]: https://img.shields.io/github/stars/SMotlaq/altiumlibrary.svg?style=for-the-badge
+[stars-url]: https://github.com/SMotlaq/altiumlibrary/stargazers
+[issues-shield]: https://img.shields.io/github/issues/SMotlaq/altiumlibrary.svg?style=for-the-badge
+[issues-url]: https://github.com/SMotlaq/altiumlibrary/issues
+[license-shield]: https://img.shields.io/github/license/SMotlaq/altiumlibrary.svg?style=for-the-badge
+[license-url]: https://github.com/SMotlaq/altiumlibrary/blob/master/LICENSE.txt
 
