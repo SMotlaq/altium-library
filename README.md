@@ -19,6 +19,17 @@ I hope you find this library useful in your PCB design endeavors! If you have an
   <p> <img src="img.png?raw=true "Overview"" width="800"> </p>  
 </div>
 
+
+# Donation
+
+Do you want to support me?
+
+<p align="left">
+  <a href="http://smotlaq.ir/LQgQF">
+  <img src="https://raw.githubusercontent.com/SMotlaq/LoRa/master/bmc.png" width="200" alt="Buy me a Coffee"/>
+  </a>
+</p>
+
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
 [contributors-shield]: https://img.shields.io/github/contributors/SMotlaq/altium-library.svg?style=for-the-badge
