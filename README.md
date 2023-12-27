@@ -11,7 +11,7 @@ Over the past 5 years, I have created and maintained this library to help stream
 
 While I have made every effort to ensure the accuracy and reliability of the components in this library, it is possible that there may be some mistakes or inaccuracies. Please review the components carefully before using them in your designs.
 
-The library is compatible with Altium Designer version 21.0 and later. To use the library, simply [download the latest release](https://github.com/SMotlaq/altium-library/releases/), place the ```IntLib``` file in an appropriate locations on your computer, then install it on the Altium Designer.
+The library is compatible with Altium Designer version 18.0 and later. To use the library, simply [download the latest release](https://github.com/SMotlaq/altium-library/releases/), place the ```IntLib``` file in an appropriate locations on your computer, then install it on the Altium Designer.
 
 I hope you find this library useful in your PCB design endeavors! If you have any questions or suggestions, please feel free to reach out to me through [Telegram account](https://t.me/S_Motlaq) or E-mail: pilot.motlaq@gmail.com
 
