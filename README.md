@@ -5,6 +5,8 @@
 [![MIT License][license-shield]][license-url]
 <!-- [![Forks][forks-shield]][forks-url] -->
 
+<!-- [![example workflow](https://github.com/github/docs/actions/workflows/releaser.yml/badge.svg)] -->
+
 # Welcome to my Altium Designer library!
 
 Over the past 5 years, I have created and maintained this library to help streamline my PCB design workflow. The library contains a variety of useful components
