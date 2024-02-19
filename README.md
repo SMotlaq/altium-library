@@ -3,6 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 [![MIT License][license-shield]][license-url]
+[![Releaser](https://github.com/SMotlaq/altium-library/actions/workflows/releaser.yml/badge.svg)](https://github.com/SMotlaq/altium-library/actions/workflows/releaser.yml)
 <!-- [![Forks][forks-shield]][forks-url] -->
 
 # Welcome to my Altium Designer library!
